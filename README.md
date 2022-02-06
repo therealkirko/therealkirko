@@ -20,7 +20,7 @@
     - AWS, Azure, DigitalOcean, Linode
     - Miscellaneous :)
     
-- 🌱 I’m currently making the world a better place through engineering solutions, as well as learning new things each day!
+- 🌱 I’m currently making the world a better place through developing solutions, as well as learning new things each day!
 
 ## Contacts
 - Email: john.muriu95@gmail.com
