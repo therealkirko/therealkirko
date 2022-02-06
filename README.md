@@ -12,7 +12,7 @@
     - Solutions Architecture
     - Mobile Application Development
 
-    - ⚒️ Tools of Trade:
+- ⚒️ Tools of Trade:
     - Laravel (PHP)
     - Python (Django)
     - JavaScript + TypeScript (NextJs, Gatsby, VueJs)
