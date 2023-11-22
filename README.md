@@ -2,23 +2,14 @@
 - 👋 Hi, I’m John Kirko
 - 🤓 I am a self-taught Software Engineer.
 - For the last 8+ years, I have put my effort in building awesome Software solutions/products, in collaboration with other awesome like minded individuals. This has seen me grow to my current level of **Integration Specialist**
-- 👀 I’m interested in:
-    - Software development
-    - Software Architecture & Design
-    - Web (3.0)
-    - APIs design and development
-    - Data Integrations
-    - Cloud computing & DevOps
-    - Solutions Architecture
-    - Mobile Application Development
-    - Backend development
 
 - ⚒️ Things I do best:
     - Backend Development (PHP, Python, Ruby on Rails, Java, Nodejs).
     - Mobile Application Development (IOS & Android).
     - Cloud management (AWS, GCP, AZURE, DigitalOcean, Akamai (Linode)).
+    - Software Architecture & Design.
     - API Integration and Development.
-    - Data Science / Analysis # [NEWEST].
+    - Data Science / Analysis **[NEWEST]**.
     
 - 🌱 I’m currently making the world a better place through developing solutions, as well as learning new things each day!
 
