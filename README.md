@@ -23,6 +23,6 @@
 - And of course Github you're on already on (Recursion)
 
 [![GitHub followers](https://img.shields.io/github/followers/therealkirko?style=social)](https://github.com/therealkirko)
-[![Profile views](https://komarev.com/ghpvc/?username=therealkirko&color=brightgreen)]
+[Profile views](https://komarev.com/ghpvc/?username=therealkirko&color=brightgreen)
 
 
