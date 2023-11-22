@@ -23,5 +23,6 @@
 - Your future developer partner on [LinkedIn]: https://www.linkedin.com/in/john-kiriko-8a3384113/
 - And of course Github you're on already on (Recursion)
 
-[![GitHub followers](https://img.shields.io/github/followers/therealkirko?style=social)](https://github.com/therealkirko)
+[![GitHub followers](https://img.shields.io/github/followers/therealkirko?style=social)](https://github.com/therealkirko) | ![Profile views](https://komarev.com/ghpvc/?username=therealkirko&color=brightgreen)
+
 
