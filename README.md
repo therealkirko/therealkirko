@@ -1,5 +1,5 @@
 ## Since you're here... :)
-- 👋 Hi, I’m **John Kirko** a **Full-stack developer** with expertise in **backend development and mobile application development**. Passionate about creating innovative and user-friendly software solutions.
+- 👋 Hi, I’m **John Kirko** a **Full-stack Developer** with expertise in **Backend Development and Mobile Application Development**. Passionate about creating innovative and user-friendly software solutions.
 
 - ⚒️ Things I do best:
     - Backend Development (PHP, Python, Ruby on Rails, Java, Nodejs).
